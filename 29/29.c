@@ -14,6 +14,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 29.c -o a.out
 nilkanth@zuxxy: ./a.out
 Removed message queue 2
 */

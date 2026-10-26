@@ -25,6 +25,8 @@ int main(int argc, char **argv)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 13b.c -o 13b.out
 nilkanth@zuxxy: ./13b.out 169157
 Sent SIGSTOP to process 169157
 */

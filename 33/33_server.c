@@ -79,6 +79,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 33_server.c -o 33_server.out
 nilkanth@zuxxy: ./33_server.out
 Listening on port 8080
 Client: hello

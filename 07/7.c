@@ -28,6 +28,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc -pthread 7.c -o a.out
 nilkanth@zuxxy: ./a.out
 Thread 0 ID: 137843471021760
 Thread 1 ID: 137843462629056

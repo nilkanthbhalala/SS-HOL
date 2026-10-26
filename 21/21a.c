@@ -36,6 +36,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 21a.c -o 21a.out
 nilkanth@zuxxy: ./21a.out
 A received: Reply from process B
 */

@@ -18,6 +18,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 32d.c -o a.out
 nilkanth@zuxxy: ./a.out
 Removed semaphore /q32_ticket_lock
 Removed semaphore /q32_shared_lock

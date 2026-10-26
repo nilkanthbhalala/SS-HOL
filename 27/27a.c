@@ -19,6 +19,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 27a.c -o a.out
 nilkanth@zuxxy: ./a.out
 Received: Message sent to the System V queue
 */

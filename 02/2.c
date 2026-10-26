@@ -40,6 +40,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 2.c -o a.out
 nilkanth@zuxxy: ./a.out
 CPU time                 soft=unlimited hard=unlimited
 File size                soft=unlimited hard=unlimited

@@ -56,6 +56,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 16.c -o a.out
 nilkanth@zuxxy: ./a.out
 Child received: Message from parent
 Parent received: Reply from child

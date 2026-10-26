@@ -17,6 +17,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 28.c -o a.out
 nilkanth@zuxxy: ./a.out
 Queue 2 permissions changed to 0600
 */

@@ -24,6 +24,8 @@ int main(int argc, char **argv)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 31b.c -o a.out
 nilkanth@zuxxy: ./a.out
 Counting semaphore ID: 5, value: 3
 */

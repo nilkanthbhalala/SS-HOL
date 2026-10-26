@@ -28,6 +28,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 12.c -o a.out
 nilkanth@zuxxy: ./a.out
 Child 169144 is sending SIGKILL to parent 169143
 Child is now orphaned; new parent is 4360

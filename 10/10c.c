@@ -21,6 +21,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 10c.c -o a.out
 nilkanth@zuxxy: ./a.out
 Caught SIGFPE with sigaction
 */

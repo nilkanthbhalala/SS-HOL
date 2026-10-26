@@ -31,6 +31,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc -pthread 6.c -o a.out
 nilkanth@zuxxy: ./a.out
 Thread 0 is running
 Thread 1 is running

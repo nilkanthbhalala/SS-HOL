@@ -54,6 +54,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 34a.c -o 34a.out
 nilkanth@zuxxy: ./34a.out
 Fork server listening on port 8081
 nilkanth@zuxxy: printf 'hello from nc\n' | nc -N 127.0.0.1 8081

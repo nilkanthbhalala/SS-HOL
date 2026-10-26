@@ -23,6 +23,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 1b.c -o a.out
 nilkanth@zuxxy: ./a.out
 ITIMER_VIRTUAL expired
 ITIMER_VIRTUAL expired

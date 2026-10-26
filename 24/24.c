@@ -16,6 +16,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 24.c -o a.out
 nilkanth@zuxxy: ./a.out
 Key: 0x514c4932
 Queue ID: 2

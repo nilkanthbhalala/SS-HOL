@@ -24,6 +24,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 8e.c -o a.out
 nilkanth@zuxxy: ./a.out
 Caught SIGALRM from ITIMER_REAL
 Caught SIGALRM from ITIMER_REAL

@@ -24,6 +24,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 13a.c -o 13a.out
 nilkanth@zuxxy: ./13a.out
 Process ID: 169157
 SIGSTOP cannot be caught (sigaction: Invalid argument)

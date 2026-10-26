@@ -32,6 +32,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 23.c -o a.out
 nilkanth@zuxxy: ./a.out
 Maximum open files per process: 524288
 Pipe capacity: 65536 bytes

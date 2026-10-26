@@ -37,6 +37,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 20_writer.c -o 20_writer.out
 nilkanth@zuxxy: ./20_writer.out
 Sent: One-way FIFO message
 */

@@ -78,6 +78,8 @@ int main(int argc, char **argv)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 33_client.c -o 33_client.out
 nilkanth@zuxxy: ./33_client.out 127.0.0.1
 Message (exit to quit): hello
 Server: Server received: hello

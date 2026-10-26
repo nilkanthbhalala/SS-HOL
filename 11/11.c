@@ -20,6 +20,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 11.c -o a.out
 nilkanth@zuxxy: ./a.out
 SIGINT is ignored
 Default SIGINT action restored; raising SIGINT now

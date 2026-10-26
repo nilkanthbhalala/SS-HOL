@@ -42,6 +42,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 18.c -o a.out
 nilkanth@zuxxy: ./a.out
 0
 */

@@ -13,6 +13,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 19b.c -o a.out
 nilkanth@zuxxy: ./a.out
 Created FIFO: fifo_mkfifo
 */

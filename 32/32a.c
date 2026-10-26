@@ -36,6 +36,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 32a.c -o a.out
 nilkanth@zuxxy: ./a.out
 Current ticket: 0
 Issued ticket: 1

@@ -16,6 +16,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 31a.c -o a.out
 nilkanth@zuxxy: ./a.out
 Binary semaphore ID: 4, value: 1
 */

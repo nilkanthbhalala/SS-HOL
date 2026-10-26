@@ -24,6 +24,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 8g.c -o a.out
 nilkanth@zuxxy: ./a.out
 Caught SIGPROF from ITIMER_PROF
 Caught SIGPROF from ITIMER_PROF

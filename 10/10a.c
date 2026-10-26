@@ -21,6 +21,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 10a.c -o a.out
 nilkanth@zuxxy: ./a.out
 Caught SIGSEGV with sigaction
 */

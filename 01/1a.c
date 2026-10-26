@@ -24,6 +24,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 1a.c -o a.out
 nilkanth@zuxxy: ./a.out
 ITIMER_REAL expired
 ITIMER_REAL expired

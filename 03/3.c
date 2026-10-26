@@ -26,6 +26,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 3.c -o a.out
 nilkanth@zuxxy: ./a.out
 Open-file limit before: soft=524288 hard=524288
 Open-file limit after:  soft=256 hard=524288

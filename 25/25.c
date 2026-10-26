@@ -39,6 +39,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 25.c -o a.out
 nilkanth@zuxxy: ./a.out
 Queue ID: 2
 Permissions: 0660

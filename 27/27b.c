@@ -27,6 +27,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 27b.c -o a.out
 nilkanth@zuxxy: ./a.out
 No message is currently available
 */

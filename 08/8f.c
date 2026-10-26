@@ -24,6 +24,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 8f.c -o a.out
 nilkanth@zuxxy: ./a.out
 Caught SIGVTALRM from ITIMER_VIRTUAL
 Caught SIGVTALRM from ITIMER_VIRTUAL

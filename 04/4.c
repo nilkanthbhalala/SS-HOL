@@ -37,6 +37,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 4.c -o a.out
 nilkanth@zuxxy: ./a.out
 Timestamp counter cycles for 100 getppid calls:
 Total: 95726

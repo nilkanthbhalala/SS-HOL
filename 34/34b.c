@@ -61,6 +61,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc -pthread 34b.c -o 34b.out
 nilkanth@zuxxy: ./34b.out
 Pthread server listening on port 8082
 nilkanth@zuxxy: printf 'hello from nc\n' | nc -N 127.0.0.1 8082

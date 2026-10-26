@@ -45,6 +45,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 30.c -o a.out
 nilkanth@zuxxy: ./a.out
 Written: Shared memory data
 Read-only attachment: Shared memory data

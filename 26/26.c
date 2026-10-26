@@ -24,6 +24,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 26.c -o a.out
 nilkanth@zuxxy: ./a.out
 Sent: Message sent to the System V queue
 Queue ID: 2

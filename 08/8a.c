@@ -17,6 +17,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 8a.c -o a.out
 nilkanth@zuxxy: ./a.out
 Caught SIGSEGV
 */

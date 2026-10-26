@@ -30,6 +30,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 5.c -o a.out
 nilkanth@zuxxy: ./a.out
 Maximum exec argument length: 2097152
 Maximum child processes per user: 48691

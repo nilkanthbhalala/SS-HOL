@@ -20,6 +20,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 32c.c -o a.out
 nilkanth@zuxxy: ./a.out
 Process 169376 is waiting for one of two resources
 Resource acquired

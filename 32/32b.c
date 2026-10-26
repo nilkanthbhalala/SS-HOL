@@ -33,6 +33,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 32b.c -o a.out
 nilkanth@zuxxy: ./a.out
 Protected shared value: 1
 */

@@ -39,6 +39,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 15.c -o a.out
 nilkanth@zuxxy: ./a.out
 Child received: Hello from the parent
 */

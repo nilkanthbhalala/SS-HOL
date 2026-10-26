@@ -21,6 +21,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 10b.c -o a.out
 nilkanth@zuxxy: ./a.out
 Caught SIGINT with sigaction
 */

@@ -39,6 +39,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 20_reader.c -o 20_reader.out
 nilkanth@zuxxy: ./20_reader.out
 Received: One-way FIFO message
 */

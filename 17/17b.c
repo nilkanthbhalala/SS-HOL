@@ -36,6 +36,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 17b.c -o a.out
 nilkanth@zuxxy: ./a.out
       5      38     201
 */

@@ -15,6 +15,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 19a.c -o a.out
 nilkanth@zuxxy: ./a.out
 Created FIFO: fifo_mknod
 */

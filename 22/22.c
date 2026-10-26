@@ -52,6 +52,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 22.c -o a.out
 nilkanth@zuxxy: ./a.out
 Received: data from FIFO
 */

@@ -18,6 +18,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 8d.c -o a.out
 nilkanth@zuxxy: ./a.out
 Caught SIGALRM from alarm()
 */

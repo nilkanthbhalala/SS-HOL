@@ -27,6 +27,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 14.c -o a.out
 nilkanth@zuxxy: ./a.out
 Read from pipe: Data sent through a pipe
 */

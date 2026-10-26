@@ -23,6 +23,8 @@ int main(void)
 }
 
 /*
+
+nilkanth@zuxxy: gcc 1c.c -o a.out
 nilkanth@zuxxy: ./a.out
 ITIMER_PROF expired
 ITIMER_PROF expired
